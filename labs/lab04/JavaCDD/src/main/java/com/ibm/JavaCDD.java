@@ -240,7 +240,7 @@ public class JavaCDD extends ChaincodeBase {
 	 * Just a easiest way to retrieve a contract by its name
 	 */
 	public String getChaincodeID() {
-		return "JavaCDD";
+		return "JavaCDDLSachini";
 	}
 
 	public static void main(String[] args) throws Exception {
